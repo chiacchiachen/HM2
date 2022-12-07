@@ -3,7 +3,7 @@
 var face_x = [] 
 var face_y = []
 var face_size = []
-var face_num = 10
+var face_num = 20
 var song
 var songIsplay=false  //設定此變數為"假"(false)，收到按下滑鼠把變數改為"true"，音樂開始播放。
 var amp
